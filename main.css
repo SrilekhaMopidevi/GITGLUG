@@ -2071,7 +2071,7 @@ input, select, textarea {
 				}
 
 				.main.dark .button.style2.down {
-					background-image: url("images/dark-arrow.svg");
+					background-image: url("dark-arrow.svg");
 				}
 
 		body.is-touch .main {
@@ -2244,7 +2244,7 @@ input, select, textarea {
 /* Intro */
 
 	#intro {
-		background: url("/images/intro.jpg");
+		background-image: url("/images/intro.jpg");
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, bottom center;
@@ -2254,7 +2254,7 @@ input, select, textarea {
 /* One */
 
 	#one {
-		background: url("/images/one.jpg");
+		background-image: url("/images/one.jpg");
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, center center;
@@ -2263,7 +2263,7 @@ input, select, textarea {
 /* Two */
 
 	#two {
-		background: url("/images/two.jpg");
+		background-image: url("/images/two.jpg");
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, center center;
