@@ -2043,7 +2043,7 @@ input, select, textarea {
 			}
 
 			.main.style3.primary {
-				background: #ffffff;
+				background-image: ("/images/intro.jpg");
 			}
 
 			.main.style3.secondary {
