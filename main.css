@@ -698,7 +698,7 @@ input, select, textarea {
 			input[type="reset"].down.anchored,
 			.button.down.anchored,
 			button.down.anchored {
-				bottom: 0;
+				bottom: 1;
 				border-bottom: 0;
 				border-radius: 3em 3em 0 0;
 				height: 4.5em;
