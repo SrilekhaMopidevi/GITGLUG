@@ -279,7 +279,7 @@ input, select, textarea {
 			-webkit-transform: scale(1) rotate(0deg);
 			-ms-transform: scale(1) rotate(0deg);
 			transform: scale(1) rotate(0deg);
-			color: #e5e6e7;
+			color: #c71313;
 			z-index: 100001;
 		}
 
@@ -288,7 +288,7 @@ input, select, textarea {
 			-webkit-transform: scale(0.5) rotate(360deg);
 			-ms-transform: scale(0.5) rotate(360deg);
 			transform: scale(0.5) rotate(360deg);
-			color: #e5e6e7;
+			color: #0b63bb;
 			z-index: 100001;
 		}
 
@@ -297,7 +297,7 @@ input, select, textarea {
 			-webkit-transform: scale(0.5) rotate(360deg);
 			-ms-transform: scale(0.5) rotate(360deg);
 			transform: scale(0.5) rotate(360deg);
-			color: #e5e6e7;
+			color: #43db35;
 			z-index: -1;
 		}
 	}
@@ -308,7 +308,7 @@ input, select, textarea {
 			-webkit-transform: scale(1) rotate(0deg);
 			-ms-transform: scale(1) rotate(0deg);
 			transform: scale(1) rotate(0deg);
-			color: #e5e6e7;
+			color: #10778a;
 			z-index: 100001;
 		}
 
@@ -317,7 +317,7 @@ input, select, textarea {
 			-webkit-transform: scale(0.5) rotate(360deg);
 			-ms-transform: scale(0.5) rotate(360deg);
 			transform: scale(0.5) rotate(360deg);
-			color: #e5e6e7;
+			color: #af1696;
 			z-index: 100001;
 		}
 
@@ -326,7 +326,7 @@ input, select, textarea {
 			-webkit-transform: scale(0.5) rotate(360deg);
 			-ms-transform: scale(0.5) rotate(360deg);
 			transform: scale(0.5) rotate(360deg);
-			color: #e5e6e7;
+			color: #17dd70;
 			z-index: -1;
 		}
 	}
@@ -438,7 +438,7 @@ input, select, textarea {
 			font-style: normal;
 			font-weight: normal;
 			text-transform: none !important;
-			color: #e5e6e7;
+			color: #1d6dbd;
 			content: '\f1ce';
 			cursor: default;
 			display: block;
@@ -460,7 +460,7 @@ input, select, textarea {
 			-webkit-animation: overlay-hide 1.5s ease-in forwards !important;
 			-ms-animation: overlay-hide 1.5s ease-in forwards !important;
 			animation: overlay-hide 1.5s ease-in forwards !important;
-			background: #ffffff;
+			background: #2ebb21;
 			content: '';
 			display: block;
 			height: 100%;
