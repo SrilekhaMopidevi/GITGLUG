@@ -221,7 +221,7 @@ input, select, textarea {
 			-webkit-transform: scale(1) rotate(0deg);
 			-ms-transform: scale(1) rotate(0deg);
 			transform: scale(1) rotate(0deg);
-			color: #e5e6e7;
+			color: #fbff00;;
 			z-index: 100001;
 		}
 
