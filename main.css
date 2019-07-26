@@ -2043,11 +2043,11 @@ input, select, textarea {
 			}
 
 			.main.style3.primary {
-				background-image: ("/images/intro.jpg");
+				background-image: url("/images/intro.jpg");
 			}
 
 			.main.style3.secondary {
-				background-image: ("/images/intro.jpg");
+				background-image: url("/images/intro.jpg");
 			}
 
 		.main.dark {
