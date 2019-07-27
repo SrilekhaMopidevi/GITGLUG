@@ -2244,7 +2244,7 @@ input, select, textarea {
 /* Intro */
 
 	#intro {
-		background: url("/images/overlay.png"), url("/images/intro.jpg");
+		background: url("https://code.swecha.org/GCETglug/gcetglug/raw/master/images%20/intro.jpg");
 		background-size: 945px 537px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, bottom center;
