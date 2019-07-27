@@ -2245,7 +2245,7 @@ input, select, textarea {
 
 	#intro {
 		background-image: url("/images/intro.jpg");
-		background-size: 200px 200px, cover;
+		background-size: 250px 250px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, bottom center;
 		background-repeat: repeat, no-repeat;
