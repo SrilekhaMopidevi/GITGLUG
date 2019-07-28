@@ -2245,7 +2245,7 @@ input, select, textarea {
 
 	#intro {
 background-image: url("intro_clouds.jpg");
-background-size: 1152px 1652px, cover;
+background-size: 2048px 768px, contain;
 background-position: center;
 height: 100vh;	
 	}
@@ -2253,7 +2253,7 @@ height: 100vh;
 /* About */
 
 	#about {
-		background-image: url("what_we_do.jpg");
+		background-image: url("intro.jpg");
 		background-size: 1152px 1652px, cover;
 		background-attachment: fixed, fixed;
 		background-position: left, center center;
@@ -2262,7 +2262,7 @@ height: 100vh;
 /* One */
 
 	#one {
-		background-image: url("Swecha.png");
+		background-image: url("one.jpg");
 		background-size: 256px 2256px, cover;
 		background-attachment: fixed, fixed;
 		background-position: left, center center;
@@ -2270,7 +2270,7 @@ height: 100vh;
 /* Two */
 
 	#two {
-		background-image: url("two.jpg");
+		background-image: url("");
 		background-size: 2048px 768px, cover;
 		background-attachment: fixed, fixed;
 		background-position: left, center;
@@ -2281,7 +2281,7 @@ height: 100vh;
 /* projects */
 
 	#projects {
-		background-image: url("one.jpg");
+		background-image: url("");
 		background-size: 4096px 1152px, cover;
 		background-attachment: fixed, fixed;
 		background-position: left, center center;
