@@ -2262,8 +2262,8 @@ height: 100vh;
 /* One */
 
 	#one {
-		background-image: url("one.jpg");
-		background-size: 2048px 1024px, cover;
+		background-image: url("swecha.png");
+		background-size: 256px 2256px, cover;
 		background-attachment: fixed, fixed;
 		background-position: left, center center;
 	}
