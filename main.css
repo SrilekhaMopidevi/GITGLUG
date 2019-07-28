@@ -2244,11 +2244,10 @@ input, select, textarea {
 /* Intro */
 
 	#intro {
-		background-image: url("intro.jpg");
-		background-size: 1024px 768px, cover;
-		background-attachment: fixed, fixed;
-		background-position: bottom, bottom center;
-		background-repeat: repeat, no-repeat;
+background-image: url("intro.jpg");
+background-size: cover;
+background-position: center;
+height: 100vh;	
 	}
 
 /* About */
