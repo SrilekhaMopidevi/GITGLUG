@@ -2254,18 +2254,18 @@ height: 100vh;
 
 	#about {
 		background-image: url("intro.jpg");
-		background-size: 1152px 1652px, cover;
+		background-size: 2048px 1024px, cover;
 		background-attachment: fixed, fixed;
-		background-position: left, center center;
+		background-position: left;
 	}
 
 /* One */
 
 	#one {
 		background-image: url("what_we_do.jpg");
-		background-size: 256px 2256px, cover;
+		background-size: 2048px 1024px, cover;
 		background-attachment: fixed, fixed;
-		background-position: left, center center;
+		background-position: right;
 	}
 /* Two */
 
