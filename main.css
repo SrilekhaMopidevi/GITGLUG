@@ -2254,7 +2254,7 @@ input, select, textarea {
 /* About */
 
 	#about {
-		background-image: url("intro.jpg");
+		background-image: url("what_we_do.jpg");
 		background-size: 1152px 1652px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, center center;
@@ -2274,7 +2274,7 @@ input, select, textarea {
 		background-image: url("two.jpg");
 		background-size: 2048px 768px, cover;
 		background-attachment: fixed, fixed;
-		background-position: top left, bottom center;
+		background-position: left, center;
 		background-repeat: repeat, no-repeat;
 	}
 
