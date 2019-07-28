@@ -53,31 +53,47 @@
 /* Intro */
 
 	#intro {
-		background: url('/images/into.jpg');
-		background-size: 256px 256px, cover;
+		background: url('intro.jpg');
+		background-size: 1024px 768px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, bottom center;
 		background-repeat: repeat, no-repeat;
 	}
 
+/* About */
+
+	#about {
+		background: url('one.jpg');
+		background-size: 1152px 1652px, cover;
+		background-attachment: fixed, fixed;
+		background-position: top left, center center;
+	}
+
 /* One */
 
 	#one {
-		background: url('/images/one.jpg');
-		background-size: 256px 256px, cover;
+		background: url('two.jpg');
+		background-size: 1024px 768px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, center center;
 	}
-
+	
 /* Two */
 
 	#two {
-		background: url('/images/two.jpg');
-		background-size: 256px 256px, cover;
+		background: url('one.jpg');
+		background-size: 1152px 1652px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, center center;
 	}
+/* Projects */
 
+	#projects {
+		background: url('one.jpg');
+		background-size: 1152px 1652px, cover;
+		background-attachment: fixed, fixed;
+		background-position: top left, center center;
+	}
 /* Contact */
 
 	#contact {
