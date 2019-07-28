@@ -53,7 +53,7 @@
 /* Intro */
 
 	#intro {
-		background: url('intro.jpg');
+		background-image: url('intro.jpg');
 		background-size: 1024px 768px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, bottom center;
@@ -63,7 +63,7 @@
 /* About */
 
 	#about {
-		background: url('one.jpg');
+		background-image: url('one.jpg');
 		background-size: 1152px 1652px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, center center;
@@ -72,7 +72,7 @@
 /* One */
 
 	#one {
-		background: url('two.jpg');
+		background-image: url('two.jpg');
 		background-size: 1024px 768px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, center center;
@@ -81,7 +81,7 @@
 /* Two */
 
 	#two {
-		background: url('one.jpg');
+		background-image: url('one.jpg');
 		background-size: 1152px 1652px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, center center;
@@ -89,7 +89,7 @@
 /* Projects */
 
 	#projects {
-		background: url('one.jpg');
+		background-image: url('one.jpg');
 		background-size: 1152px 1652px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, center center;
