@@ -2264,7 +2264,7 @@ input, select, textarea {
 
 	#two {
 		background-image: url("two.jpg");
-		background-size: 2048px 1152px, cover;
+		background-size: 4096px 1152px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, center center;
 	}
