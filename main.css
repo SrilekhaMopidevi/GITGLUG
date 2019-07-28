@@ -2254,7 +2254,7 @@ input, select, textarea {
 /* About */
 
 	#about {
-		background-image: url("one.jpg");
+		background-image: url("intro.jpg");
 		background-size: 1152px 1652px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, center center;
@@ -2263,7 +2263,7 @@ input, select, textarea {
 /* One */
 
 	#one {
-		background-image: url("two.jpg");
+		background-image: url("one.jpg");
 		background-size: 4096px 1152px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, center center;
@@ -2271,7 +2271,7 @@ input, select, textarea {
 /* Two */
 
 	#two {
-		background-image: url("intro.jpg");
+		background-image: url("two.jpg");
 		background-size: 1024px 768px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, bottom center;
@@ -2282,7 +2282,7 @@ input, select, textarea {
 /* projects */
 
 	#projects {
-		background-image: url("two.jpg");
+		background-image: url("one.jpg");
 		background-size: 4096px 1152px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, center center;
