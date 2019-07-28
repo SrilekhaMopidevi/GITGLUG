@@ -2247,7 +2247,7 @@ input, select, textarea {
 		background-image: url("intro.jpg");
 		background-size: 1024px 768px, cover;
 		background-attachment: fixed, fixed;
-		background-position: top left, bottom center;
+		background-position: bottom, bottom center;
 		background-repeat: repeat, no-repeat;
 	}
 
@@ -2257,7 +2257,7 @@ input, select, textarea {
 		background-image: url("what_we_do.jpg");
 		background-size: 1152px 1652px, cover;
 		background-attachment: fixed, fixed;
-		background-position: top left, center center;
+		background-position: left, center center;
 	}
 
 /* One */
@@ -2266,7 +2266,7 @@ input, select, textarea {
 		background-image: url("one.jpg");
 		background-size: 2048px 1024px, cover;
 		background-attachment: fixed, fixed;
-		background-position: top left, center center;
+		background-position: left, center center;
 	}
 /* Two */
 
@@ -2285,7 +2285,7 @@ input, select, textarea {
 		background-image: url("one.jpg");
 		background-size: 4096px 1152px, cover;
 		background-attachment: fixed, fixed;
-		background-position: top left, center center;
+		background-position: left, center center;
 	}
 
 /* Contact */
