@@ -556,7 +556,7 @@ input, select, textarea {
 	}
 
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
-			color: darkred;
+			color: inherit;
 			text-decoration: none;
 		}
 
@@ -576,7 +576,7 @@ input, select, textarea {
 
 	strong, b {
 		font-weight: 900;
-		color: darkred;
+		color:inherit;
 	}
 
 	em, i {
