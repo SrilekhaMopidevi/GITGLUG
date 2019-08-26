@@ -551,12 +551,12 @@ input, select, textarea {
 
 	h1, h2, h3, h4, h5, h6 {
 		font-weight: 900;
-		color:red
+		color: darkred
 		letter-spacing: -0.0325em;
 	}
 
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
-			color: inherit;
+			color: darkred;
 			text-decoration: none;
 		}
 
@@ -576,7 +576,7 @@ input, select, textarea {
 
 	strong, b {
 		font-weight: 900;
-		color: inherit;
+		color: darkred;
 	}
 
 	em, i {
