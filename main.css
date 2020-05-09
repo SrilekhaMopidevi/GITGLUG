@@ -576,7 +576,7 @@ input, select, textarea {
 
 	strong, b {
 		font-weight: 900;
-		color: inherit;
+		color:inherit;
 	}
 
 	em, i {
@@ -662,10 +662,10 @@ input, select, textarea {
 		-webkit-transition: background-color 0.2s ease-in-out;
 		-ms-transition: background-color 0.2s ease-in-out;
 		transition: background-color 0.2s ease-in-out;
-		background-color: #98c593;
+		background-color: #1370a4;
 		border: 0;
 		border-radius: 3.5em;
-		color: #ffffff;
+		color: #0b0808;
 		cursor: pointer;
 		display: inline-block;
 		height: 3.5em;
@@ -2244,8 +2244,8 @@ input, select, textarea {
 /* Intro */
 
 	#intro {
-background-image: url("intro_clouds.jpg");
-background-size: 2048px 768px, contain;
+background-image: url("intro_new1.jpeg");
+background-size: 2048px 1024px, contain;
 background-position: center;
 height: 100vh;	
 	}
